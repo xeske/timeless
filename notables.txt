@@ -332,7 +332,7 @@
 332	Righteous Providence
 333	Inevitable Judgement
 334	Augury of Penitence
-335	Sanctuary
+335	Sanctify
 336	Pious Path
 337	Instruments of Zeal
 338	Instruments of Virtue
