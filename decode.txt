@@ -93,3 +93,18 @@
 93	onslaught_buff_duration_on_kill_ms
 94	physical_damage_%_to_add_as_cold
 95	gain_alchemists_genius_on_flask_use_%
+96	Calming Devotion
+97	Cloistered
+98	Enduring Faith
+99	Frenzied Faith
+100	Heated Devotion
+101	Intolerance of Sin
+102	Martyr's Might
+103	Powerful Faith
+104	Smite the Heretical
+105	Smite the Ignorant
+106	Smite the Wicked
+107	Thoughts and Prayers
+108	Thundrous Devotion
+109	Zealot
+110	base_devotion
