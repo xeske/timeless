@@ -68,3 +68,28 @@
 68	Voll's Coup
 69	War Games
 70	With Eyes Open
+71	base_dexterity
+72	base_avoid_stun_%
+73	evasion_rating_+%
+74	charges_gained_+%
+75	minion_movement_speed_+%
+76	elemental_damage_+%
+77	add_frenzy_charge_on_kill_%_chance
+78	base_poison_damage_+%
+79	projectile_damage_+%
+80	base_elemental_status_ailment_duration_+%
+81	non_curse_aura_effect_+%
+82	critical_strike_chance_+%
+83	global_chance_to_blind_on_hit_%
+84	base_cold_damage_resistance_%
+85	base_movement_velocity_+%
+86	attack_and_cast_speed_+%
+87	minion_damage_+%
+88	maximum_life_+%
+89	faster_poison_%
+90	accuracy_rating_+%
+91	non_damaging_ailment_effect_+%
+92	dexterity_+%
+93	onslaught_buff_duration_on_kill_ms
+94	physical_damage_%_to_add_as_cold
+95	gain_alchemists_genius_on_flask_use_%
